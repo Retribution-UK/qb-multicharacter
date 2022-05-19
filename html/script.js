@@ -133,7 +133,7 @@ $(".btn-iniciar").on("click", function() {
             qbMultiCharacters.fadeInDown('.characters-list', '20%', 400);
             $('.jugadores-on').fadeIn();
             $('.fondocolor').hide();
-            qbMultiCharacters.fadeInDown('.imagenlogo', '0%', 1700);
+            qbMultiCharacters.fadeInDown('.imagenlogo', '10%', 1700);
             $.post('https://qb-multicharacter/removeBlur');
         })
 });
