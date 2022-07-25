@@ -76,7 +76,7 @@ $(document).ready(function (){
                                 qbMultiCharacters.fadeInDown('.topbar', '-95%', 2000);
                                 qbMultiCharacters.fadeInDown('.bottombar', '94.5%', 2000);
                                 qbMultiCharacters.fadeInDown('.imagenlogo', '35%', 2500);
-                                qbMultiCharacters.fadeInDown2('.btn-iniciar', '7%', 1000);
+                                qbMultiCharacters.fadeInDown2('.btn-iniciar', '8%', 1000);
 
                                 $(".fondo-negro").fadeOut(1000);
                                 $('.title-screen').fadeIn(1000);
